@@ -1,0 +1,16 @@
+This memory application offer to save a memory from an existing file 
+	or from new file(if no file has benn choosen
+	the app make a new one),the user can:
+		-choose font from the given .
+		-set the size of the font //
+		-set the color of the text //
+		-save the current text in the current date by the Save Mem button.
+		-extract memory from the current date by the Choose Date Mem button.
+		-clean the current text by the Clean Mem button.
+		-choose a file from a directory by the menu button Open File in File.
+		-create a new file by the menu button New File in File.
+		-exit the app from the menu button Exit in System.
+		-open this help file from the menu button Help in System.
+		
+		
+			*The new file name will be memFile+random number.txt
